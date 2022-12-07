@@ -1,10 +1,3 @@
-//variables are containers which are used to store data .
-//variables are initalized with two types of declarations:
-//1. let => let is used when data needs to be updated in future.
-//2. const => when data have to kept constant.
-//In other languages declarations depends on type of data we are using.
-//for e.g. in c++, we use int for storing integer, string for storing string values bool for storing boolean
-//but in Javascript you can use same declaration(let/const) for every data type
 
 //use of let (when data will be updated)
 // let a = 18;
